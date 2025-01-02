@@ -1,51 +1,51 @@
-# Digigerman.com
+# دانلود کننده فیلم‌های آلمانی
 
-### **Introduction**
-This application provides a seamless platform for downloading and watching movies in German. Whether you're a German language learner or just a fan of German-dubbed content, this app has you covered!
-
----
-
-## **Features**
-
-1. **Direct Downloads**
-   - Download movies quickly with direct links.
-
-2. **Online Streaming**
-   - Watch movies instantly without downloading.
-
-3. **German Subtitles**
-   - Enhance your experience with embedded German subtitles.
-
-4. **German Dubbing**
-   - All movies are available with professional German dubbing.
-
-5. **Half-Price Downloads**
-   - Downloads are calculated at half-price for users in specific regions (e.g., Iran).
+### **معرفی**
+این برنامه یک پلتفرم کامل برای دانلود و تماشای فیلم‌ها به زبان آلمانی ارائه می‌دهد. چه زبان‌آموز باشید یا طرفدار محتوای دوبله شده به زبان آلمانی، این برنامه بهترین انتخاب برای شماست!
 
 ---
 
-## **How to Use**
+## **ویژگی‌ها**
 
-1. **Browse Movies**
-   - Explore the collection of German-dubbed and subtitled movies.
+1. **دانلود مستقیم**
+   - فیلم‌ها را با لینک‌های مستقیم و سریع دانلود کنید.
 
-2. **Choose Your Option**
-   - Select either "Download" or "Stream Online."
+2. **پخش آنلاین**
+   - بدون نیاز به دانلود، فیلم‌ها را بلافاصله تماشا کنید.
 
-3. **Enjoy!**
-   - Watch your favorite content with ease.
+3. **زیرنویس آلمانی**
+   - تجربه‌ی خود را با زیرنویس‌های آلمانی بهبود ببخشید.
 
----
+4. **دوبله آلمانی**
+   - تمام فیلم‌ها با دوبله حرفه‌ای آلمانی ارائه می‌شوند.
 
-## **Contribution**
-We welcome contributions! Feel free to fork this repository, make changes, and submit a pull request.
-
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+5. **دانلود نیم‌بها**
+   - برای کاربران برخی مناطق (مانند ایران)، دانلودها با هزینه نیم‌بها محاسبه می‌شوند.
 
 ---
 
-### **Contact**
-For any issues or suggestions, please contact us via [support@digigerman.com](mailto:support@digigerman.com).
+## **نحوه استفاده**
+
+1. **مرور فیلم‌ها**
+   - مجموعه‌ای از فیلم‌های دوبله و زیرنویس شده به آلمانی را کاوش کنید.
+
+2. **انتخاب گزینه‌ها**
+   - گزینه "دانلود" یا "پخش آنلاین" را انتخاب کنید.
+
+3. **لذت ببرید!**
+   - به راحتی محتوای دلخواه خود را تماشا کنید.
+
+---
+
+## **مشارکت**
+ما از مشارکت‌ها استقبال می‌کنیم! لطفاً این مخزن را فورک کنید، تغییرات خود را اعمال کنید و یک Pull Request ارسال کنید.
+
+---
+
+## **مجوز**
+این پروژه تحت مجوز MIT منتشر شده است. برای جزئیات، فایل [LICENSE](LICENSE) را مشاهده کنید.
+
+---
+
+### **تماس**
+برای هرگونه مشکل یا پیشنهاد، لطفاً از طریق [support@digigerman.com](mailto:support@digigerman.com) با ما در تماس باشید.
